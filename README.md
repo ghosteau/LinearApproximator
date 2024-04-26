@@ -5,6 +5,6 @@ With the modern marvel of computers, this may not necessarily be an issue, but I
 
 I have displayed a desmos image as an example of the function x^3, in which I show a red tangent line, and the real function in black -- I was looking to approximate 1.99^3 by using a tangent line at (variable) a = 2. As you can see, when we get closer to the tangent line's "touching" value with the real function, the better the approximation is. This visualization is exactly what the program does in effect, allowing us to observe these differences within a quick Python environment.
 
-Another fun fact about this is that it is the first expansion of the Taylor Series, if you have ever taken calculus 2 this may seem familiar.
+Another fun fact about this is that it is the first expansion of the Taylor Series. If you have ever taken calculus 2 this may seem familiar.
 
 Thank you and enjoy!
